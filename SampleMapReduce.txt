@@ -1,0 +1,1 @@
+Sample text input for IBM MapReduce course.
